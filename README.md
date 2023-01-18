@@ -35,7 +35,7 @@ Retrospective Cohort Study. (submitted)
 - Luo, J., Rhemtulla, I., Rosales, M., Agarwal, J., & Kwok, A. (2021). A Nationwide Analysis Evaluating the
 Safety of Using Acellular Dermal Matrix with Tissue Expander-Based Breast Reconstruction.
 (submitted)
--Dean, T., Rosales, M., Richards, B., Harrison, L., Price-Johnson, T., Chan, B., & Sudweeks, R. (2020).
+- Dean, T., Rosales, M., Richards, B., Harrison, L., Price-Johnson, T., Chan, B., & Sudweeks, R. (2020).
 Factors Associated with Differences in Multiple Mini Interview Ratings at Three Medical
 Schools. (submitted)
 - Hung, M., Lauren, E., Hon, E., Xu, J., Ruiz-Negrón, B., Rosales, M., ... & Su, W. (2020). Using Machine
