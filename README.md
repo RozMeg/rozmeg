@@ -14,7 +14,7 @@ Working in public health and medical spaces, I've written a lot of code and resu
 - Selecting patient characteristics from the National Health and Nutrition Examination Survey (NHANES) data for a dental hygiene recommendation system using ridge regression
 - Building and evaluating various types of machine learning models for predicting dental cavities in Python
 
-Some of my brainchildren live in publications that you can look up if you're so inclined:
+Some of my contributions live in publications that you can look up if you're so inclined:
 
 - Luo, J., Rosales, M., Stoddard, G., Kwok, A., Jeyapalina, S., & Agarwal, J. (2022). Hospitalization,
 Mechanical Ventilation, and Case-Fatality Outcomes in US Veterans with COVID-19 Disease
