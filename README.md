@@ -2,7 +2,7 @@
 
 I'm Meg. I'm a biostatistician by training who's spent most of the last decade in the public health sphere. It occurred to me that someone down the line might need proof that I can code and analyze things in fancy ways. Hence, here is my GitHub, a testament to how much time I've spent staring at a computer.
 
-Working in public health and medical spaces, I've written a lot of code and results that I can't share publicly (because patient privacy, politics, cat ate my laptop, etc.). But...I can usually talk about them. Here's a list of some things I've done:
+Working in public health and medical spaces, I've written a lot of code and results that I can't share publicly (because patient privacy, politics, cat ate my laptop, etc.). But...I can usually talk about them or at least the process of doing them. Here's a list of some things I've done:
 
 #### Highlights:
 - Automation of error identification and simple feedback messages in SAS and Python for an electronic lab reporting onboarding process
