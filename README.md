@@ -53,4 +53,4 @@ Properties.
 - Athanasopoulou, A., Vogel, I., Pincus, N., & Rosales, M. The Acoustic Properties of Stress Using Linear
 Discriminant Analysis.
 
-
+#### Thanks for checking out my work!
